@@ -1,0 +1,19 @@
+Sarah Wilson
+
+Job Title: Machine Learning Engineer
+
+Experience: 4 years
+
+Skills:
+- Python
+- Machine Learning
+- TensorFlow
+- PyTorch
+- SQL
+- AWS
+
+Education:
+- Master of Computer Science
+
+Professional Summary:
+Machine Learning Engineer with 4 years of experience developing machine learning solutions. Experienced in Python, TensorFlow, PyTorch, SQL, and cloud-based machine learning systems.

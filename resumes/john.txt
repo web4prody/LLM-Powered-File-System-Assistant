@@ -1,0 +1,20 @@
+John Doe
+
+Job Title: Python Developer
+
+Experience: 4 years
+
+Skills:
+Python
+Django
+Flask
+SQL
+Git
+AWS
+
+Education:
+Bachelor of Computer Science
+
+Professional Summary:
+Python developer with 4 years of experience developing backend applications.
+Experienced in Python, Django, REST APIs and SQL.

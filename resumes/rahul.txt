@@ -1,0 +1,19 @@
+Rahul Kumar
+
+Job Title: Backend Developer
+
+Experience: 5 years
+
+Skills:
+Java
+Spring Boot
+Python
+AWS
+Docker
+
+Education:
+Bachelor of Engineering
+
+Professional Summary:
+Backend developer with 5 years of software development experience.
+Experienced in Java, Spring Boot, Python and cloud technologies.
